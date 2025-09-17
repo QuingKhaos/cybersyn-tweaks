@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-17
   Changes:
     - [item=cybersyn-combinator] Move to circuit-combinator subgroup if SchallCircuitGroup is installed.
   Features:
