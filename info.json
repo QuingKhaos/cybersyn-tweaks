@@ -9,6 +9,7 @@
   "dependencies": [
     "base >= 2.0.0",
     "cybersyn >= 2.0.0",
-    "? SchallCircuitGroup >= 2.0.0"
+    "? SchallCircuitGroup >= 2.0.0",
+    "(?) Automatic_Train_Painter >= 2.0.0"
   ]
 }

@@ -3,3 +3,5 @@ Version: 1.0.0
 Date: ????
   Changes:
     - [item=cybersyn-combinator] Move to circuit-combinator subgroup if SchallCircuitGroup is installed.
+  Features:
+    - Add setting to remove [item=manual-color-module] if Automatic_Train_Painter is installed, default: enabled.
