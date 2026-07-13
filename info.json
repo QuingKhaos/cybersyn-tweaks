@@ -1,15 +1,14 @@
 {
   "name": "cybersyn-tweaks",
   "title": "Project Cybersyn Tweaks",
-  "description": "Opinionated tweaks to Project Cybersyn - Logistics Train Dispatcher.",
+  "description": "[DEPRECATED] Functionality migrated to QuingKhaos' Circuitry Tweaks.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
-    "cybersyn >= 2.0.0",
-    "? SchallCircuitGroup >= 2.0.0",
-    "(?) Automatic_Train_Painter >= 2.0.0"
+
+    "khaoscircuitry >= 1.0.0"
   ]
 }
